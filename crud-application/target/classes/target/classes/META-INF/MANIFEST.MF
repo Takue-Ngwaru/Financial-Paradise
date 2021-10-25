@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: NGWARU
+Build-Jdk: 16.0.2
+Class-Path: /Users/NGWARU/Downloads/jar_files/mysql-connector-java-8.0.2
+ 6.jar /Users/NGWARU/Downloads/jar_files/protobuf-java-3.11.4.jar
+Main-Class: takue.registration
+Created-By: Maven Integration for Eclipse
+
