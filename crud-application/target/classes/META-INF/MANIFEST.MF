@@ -1,6 +1,0 @@
-Manifest-Version: 1.0
-Built-By: NGWARU
-Build-Jdk: 16.0.2
-Main-Class: takue.registration
-Created-By: Maven Integration for Eclipse
-
