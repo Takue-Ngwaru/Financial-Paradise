@@ -10,8 +10,7 @@ public class registration {
 	String psw = "takue1234";
 	String query;
 	final static Logger logger = Logger.getLogger(String.valueOf(registration.class));
-
-	public static void main(String[] args) {
+public static void main(String[] args) {
 		registration user = new registration();
 		Scanner input = new Scanner(System.in);
 
@@ -26,9 +25,7 @@ public class registration {
 					user.create();
 				} catch (Exception e) {
 					logger.severe("Got exception!");
-
-			
-				}
+}
 
 			} else if (userInput == 2) {
 
